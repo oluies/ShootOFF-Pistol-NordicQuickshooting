@@ -9,7 +9,7 @@ One shoots at a target with 5 shots.
 The target is turned away and is shown after 10 seconds, shown 3, gone 7 and so on (5 times)
 It was breifly in the [olympics](https://en.wikipedia.org/wiki/Shooting_at_the_1906_Intercalated_Games)
 
-The sequence is:
+##Shooting  sequence 
 
 1. Start command: 10 seconds left
 
@@ -26,5 +26,10 @@ The sequence is:
 And so on - target is show 5 times in total 
 
 [Video](https://www.youtube.com/watch?v=yrllVQOELyU) 
+
+##Installation 
+
+To create the JAR file run gradle jar. The JAR file will appear in build/lib. Place it in ShootOFF's exercises directory and start strengthening those muscles!
+
 
 
