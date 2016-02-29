@@ -1,6 +1,9 @@
 /*
  * ShootOFF - Software for Laser Dry Fire Training
+ * Nordic Quick Shot event plugin
  * Copyright (C) 2015 phrack
+ * Copyright (C) 2015 oluies@github
+
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
