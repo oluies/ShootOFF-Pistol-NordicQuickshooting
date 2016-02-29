@@ -10,13 +10,21 @@ The target is turned away and is shown after 10 seconds, shown 3, gone 7 and so 
 It was breifly in the [olympics](https://en.wikipedia.org/wiki/Shooting_at_the_1906_Intercalated_Games)
 
 The sequence is:
-Start command: 10 seconds left
-Ready command: 3 seconds left
-Figure is shown for 3 seconds
-Figure is away for 7 seconds
-Figure is shown for 3 seconds
-Figure is away for 7 seconds ...
-target is show 5 times
+
+1. Start command: 10 seconds left
+
+2. Ready command: 3 seconds left
+
+3. Figure is shown for 3 seconds
+
+4. Figure is away for 7 seconds
+
+5. Figure is shown for 3 seconds
+
+6. Figure is away for 7 seconds ...
+
+And so on - target is show 5 times in total 
+
 [Video](https://www.youtube.com/watch?v=yrllVQOELyU) 
 
 
