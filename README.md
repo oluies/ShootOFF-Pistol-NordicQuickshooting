@@ -29,7 +29,7 @@ And so on - target is show 5 times in total
 
 ##Installation 
 
-To create the JAR file run gradle jar. The JAR file will appear in build/lib. Place it in ShootOFF's exercises directory and start strengthening those muscles!
+To create the JAR file run gradle jar. The JAR file will appear in build/lib. Place it in ShootOFF's exercises directory and start training!
 
 
 
