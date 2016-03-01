@@ -1,5 +1,5 @@
 # ShootOFF-Pistol-NordicQuickshooting
- training exercise for ShootOFF Nordic Quickshooting
+ [Training exercise](https://github.com/phrack/ShootOFF/wiki/Tutorial%3A-Creating-a-Simple-Training-Exercise) for ShootOFF Nordic Quickshooting
  
 ##Background
 In Nordic region and rules (Sweden, Finland, Norway, Denmark) there is a event type called 
